@@ -55,7 +55,7 @@ Reverse Engineering • Cybersecurity • Systems Optimization • Software Deve
 ### 🌎 Connect With Me
 
 📧 [tylerfleming32@gmail.com](mailto:tylerfleming32@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/) *(add your link here)*  
+💼 [LinkedIn](https://www.linkedin.com/in/tylerjamesfleming)  
 💻 [GitHub](https://github.com/1onmyraft)
 
 ---
