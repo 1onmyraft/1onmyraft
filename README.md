@@ -15,7 +15,7 @@
 - 🖥️ I maintain and configure gaming systems at the **CSUMB Esports Lounge**, handling hardware, system updates, and backend admin tools.  
 - 🧠 Reverse-engineering and performance optimization have been my favorite ways to learn how systems actually work.  
 - 🚀 In 2025, I built a **Fortnite automation project** that went viral on TikTok/YouTube (10M+ views, $2,000+ earned in a week).  
-- 🪙 I’ve also led a **cryptocurrency simulator project** that visualized real-time data using the CoinGecko API.  
+- ⭐ I’ve also led a **cryptocurrency simulator project** that visualized real-time data using the CoinGecko API.  
 - 🧰 I love solving practical problems — whether it’s automating a workflow, improving system efficiency, or debugging deep-level code.
 
 ---
