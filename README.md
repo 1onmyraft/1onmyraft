@@ -45,7 +45,7 @@ Reverse Engineering • Cybersecurity • Systems Optimization • Software Deve
 
 ### 🏆 Highlights
 
-- 🥇 9th Place @ **OtterHack 2025**  
+- 🥇 **1st Place** Otterhacks 2026, 9th Place @ **OtterHack 2025**  
 - 🎯 **ICPC Regional Competitor**  
 - 🌐 Managed Shopify store generating tens of thousands in monthly revenue  
 - 🧠 Always exploring new tech — cybersecurity, low-level systems, and anticheat tools.
